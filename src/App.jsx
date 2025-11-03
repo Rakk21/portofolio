@@ -355,7 +355,7 @@ function Portfolio() {
                 </div>
                 <div>
                   <h3 className="text-white font-bold mb-1">Email</h3>
-                  <p className="text-gray-400">raka@example.com</p>
+                  <p className="text-gray-400">dityaka8@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -367,12 +367,13 @@ function Portfolio() {
                 </div>
                 <div>
                   <h3 className="text-white font-bold mb-1">Phone</h3>
-                  <p className="text-gray-400">+62 812-3456-7890</p>
+                  <p className="text-gray-400">+62 857-1917-0684</p>
                 </div>
               </div>
             </div>
           </div>
 
+<form action="https://formsubmit.co/dityaka8@gmail.com" method="POST">
           <div className="space-y-6 p-8 bg-white/5 backdrop-blur-sm rounded-2xl border border-white/10">
             <div className="grid md:grid-cols-2 gap-6">
               <input 
@@ -403,6 +404,7 @@ function Portfolio() {
               Kirim Pesan
             </button>
           </div>
+          </form>
         </div>
       </section>
 
